@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://juncoreent.github.io/Ju-core-enterprise/sitemap.xml
